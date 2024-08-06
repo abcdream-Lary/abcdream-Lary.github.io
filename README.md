@@ -1,4 +1,4 @@
-# Blog Title :link: https://abcdream-Lary.github.io 
+# Blog Title :link: https://blog.lray.us.kg 
 ### :page_facing_up: [1](https://abcdream-Lary.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 88 
