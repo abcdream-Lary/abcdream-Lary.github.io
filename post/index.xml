@@ -13,7 +13,7 @@
         <pubDate>Wed, 21 Aug 2024 21:01:10 +0800</pubDate>
         
         <guid>https://abcdream-lary.github.io/p/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/</guid>
-        <description>&lt;img src="https://abcdream-lary.github.io/p/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/XZXXN_YS.png" alt="Featured image of post 本博客搭建历程" /&gt;&lt;h2 id=&#34;环境搭建&#34;&gt;环境搭建
+        <description>&lt;img src="https://abcdream-lary.github.io/p/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/XZXXN_YS.png" alt="Featured image of post 本博客搭建历程" /&gt;&lt;h2 id=&#34;i-环境搭建&#34;&gt;I 环境搭建
 &lt;/h2&gt;&lt;p&gt;&lt;font size=4px&gt;需提前注册 &lt;a class=&#34;link&#34; href=&#34;https://github.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;【Github】&lt;/a&gt; ，不会注册请百度搜索&lt;/font&gt;&lt;/p&gt;
 &lt;h3 id=&#34;git-安装&#34;&gt;Git 安装
@@ -87,7 +87,7 @@
 &lt;li&gt;打开 &lt;em&gt;CMD&lt;/em&gt; 输入 &lt;code&gt;winget install Hugo.Hugo.Extended&lt;/code&gt; 即可一键安装，具体可参考&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;【Hugo官网】&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;博客搭建&#34;&gt;博客搭建
+&lt;h2 id=&#34;ii-博客搭建&#34;&gt;II 博客搭建
 &lt;/h2&gt;&lt;h3 id=&#34;创建博客&#34;&gt;创建博客
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;（1）&lt;/strong&gt; 打开 &lt;strong&gt;CMD&lt;/strong&gt;  &lt;em&gt;cd&lt;/em&gt; 到你想存放博客数据的文件夹&lt;br&gt;
@@ -122,7 +122,7 @@
 &lt;strong&gt;（4）&lt;/strong&gt; 再次本地启动查看主题是否应用即可&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;github部署&#34;&gt;Github部署
+&lt;h2 id=&#34;iii-github部署&#34;&gt;III Github部署
 &lt;/h2&gt;&lt;h3 id=&#34;普通部署&#34;&gt;普通部署
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;
@@ -151,7 +151,7 @@
 &lt;/div&gt;&lt;p&gt;&lt;strong&gt;（4）&lt;/strong&gt; 上传成功后可通过 https://{github用户名}.github.io 访问，成功搭建属于自己的Hugo博客。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;github-action自动部署&#34;&gt;Github Action自动部署
+&lt;h2 id=&#34;iv-github-action自动部署&#34;&gt;IV Github Action自动部署
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;（1）&lt;/strong&gt; 在 Github 中再创建一个新仓库，用于存放 Hugo 主文件，名称随意即可&lt;/p&gt;
@@ -289,7 +289,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;参考&#34;&gt;参考
+&lt;h2 id=&#34;v-参考&#34;&gt;V 参考
 &lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;u&gt;&lt;a class=&#34;link&#34; href=&#34;https://letere-gzj.github.io/hugo-stack/p/hugohugo--github-%e5%85%8d%e8%b4%b9%e9%83%a8%e7%bd%b2%e8%87%aa%e5%b7%b1%e7%9a%84%e5%8d%9a%e5%ae%a2/#22-%e9%85%8d%e7%bd%ae%e4%b8%bb%e9%a2%98&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;莱特雷-letere&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
