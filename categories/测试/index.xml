@@ -13,16 +13,7 @@
         <pubDate>Thu, 15 Aug 2024 20:05:20 +0800</pubDate>
         
         <guid>https://abcdream-lary.github.io/p/my-firstblog/</guid>
-        <description>&lt;img src="https://abcdream-lary.github.io/p/my-firstblog/SMV.jpg" alt="Featured image of post My FirstBlog" /&gt;&lt;!-- +++
-title = &#39;My FirstBlog&#39;
-date = 2024-08-15T20:05:20+08:00
-draft = true
-image = &#34;SMV.jpg&#34;
-categories = [
-    &#34;测试&#34;
-]
-+++ --&gt;
-&lt;p&gt;这是第一次搭建博客，使用简单易上手的 &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <description>&lt;img src="https://abcdream-lary.github.io/p/my-firstblog/SMV.jpg" alt="Featured image of post My FirstBlog" /&gt;&lt;p&gt;这是第一次搭建博客，使用简单易上手的 &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;hugo&lt;/strong&gt;&lt;/a&gt; 框架 与 简约好看的 &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;stack&lt;/strong&gt;&lt;/a&gt; 主题&lt;/p&gt;
 &lt;h2 id=&#34;搭建hugo博客时的常用指令&#34;&gt;搭建hugo博客时的常用指令
@@ -79,7 +70,7 @@ categories = [
         <pubDate>Thu, 15 Aug 2024 18:13:58 +0800</pubDate>
         
         <guid>https://abcdream-lary.github.io/p/new-test/</guid>
-        <description>&lt;img src="https://abcdream-lary.github.io/p/new-test/XZXXN_YS.png" alt="Featured image of post New Test" /&gt;&lt;p&gt;只是测试&lt;/p&gt;
+        <description>&lt;p&gt;只是测试&lt;/p&gt;
 </description>
         </item>
         <item>

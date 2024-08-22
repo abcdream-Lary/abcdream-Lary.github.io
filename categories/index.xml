@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Layne</copyright>
-        <lastBuildDate>Thu, 15 Aug 2024 20:05:20 +0800</lastBuildDate><atom:link href="https://abcdream-lary.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 21 Aug 2024 21:01:10 +0800</lastBuildDate><atom:link href="https://abcdream-lary.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo</title>
+        <link>https://abcdream-lary.github.io/categories/hugo/</link>
+        <pubDate>Wed, 21 Aug 2024 21:01:10 +0800</pubDate>
+        
+        <guid>https://abcdream-lary.github.io/categories/hugo/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>测试</title>
         <link>https://abcdream-lary.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
         <pubDate>Thu, 15 Aug 2024 20:05:20 +0800</pubDate>
