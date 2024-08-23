@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Markdown on Layne</title>
+        <link>https://abcdream-lary.github.io/categories/markdown/</link>
+        <description>Recent content in Markdown on Layne</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Layne</copyright>
+        <lastBuildDate>Fri, 23 Aug 2024 16:30:45 +0800</lastBuildDate><atom:link href="https://abcdream-lary.github.io/categories/markdown/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Markdown 使用教程</title>
+        <link>https://abcdream-lary.github.io/p/markdown-%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</link>
+        <pubDate>Fri, 23 Aug 2024 16:30:45 +0800</pubDate>
+        
+        <guid>https://abcdream-lary.github.io/p/markdown-%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</guid>
+        <description>&lt;img src="https://abcdream-lary.github.io/p/markdown-%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/Markdown.jpeg" alt="Featured image of post Markdown 使用教程" /&gt;&lt;h2 id=&#34;什么是-markdown&#34;&gt;什么是 Markdown？
+&lt;/h2&gt;&lt;p&gt;Markdown 是一种轻量级标记语言，用于创建格式化文本的文档。它允许用户使用简单的语法来添加标题、列表、强调文本等功能。&lt;/p&gt;
+&lt;h2 id=&#34;markdown-基础语法&#34;&gt;Markdown 基础语法
+&lt;/h2&gt;&lt;h3 id=&#34;标题&#34;&gt;标题
+&lt;/h3&gt;&lt;p&gt;在 Markdown 中，标题使用 &lt;code&gt;#&lt;/code&gt; 符号表示不同级别的标题。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;一级标题&lt;/strong&gt;：&lt;code&gt;# 一级标题&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;二级标题&lt;/strong&gt;：&lt;code&gt;## 二级标题&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;三级标题&lt;/strong&gt;：&lt;code&gt;### 三级标题&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;列表&#34;&gt;列表
+&lt;/h3&gt;&lt;p&gt;在 Markdown 中，有序和无序列表使用不同的符号表示。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;有序列表&lt;/strong&gt;：使用 &lt;code&gt;1.&lt;/code&gt; 或 &lt;code&gt;2.&lt;/code&gt; 等数字符号。
+&lt;ul&gt;
+&lt;li&gt;有序列表 1&lt;/li&gt;
+&lt;li&gt;有序列表 2&lt;/li&gt;
+&lt;li&gt;有序列表 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;无序列表&lt;/strong&gt;：使用 &lt;code&gt;-&lt;/code&gt; 或 &lt;code&gt;*&lt;/code&gt; 符号。
+&lt;ul&gt;
+&lt;li&gt;无序列表 1&lt;/li&gt;
+&lt;li&gt;无序列表 2&lt;/li&gt;
+&lt;li&gt;无序列表 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;强调文本&#34;&gt;强调文本
+&lt;/h3&gt;&lt;p&gt;在 Markdown 中，强调文本使用 &lt;code&gt;**&lt;/code&gt; 或 &lt;code&gt;__&lt;/code&gt; 符号表示。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;粗体文本&lt;/strong&gt;：&lt;code&gt;**这是一个粗体文本**&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;斜体文本&lt;/strong&gt;：&lt;code&gt;__这是一个斜体文本__&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;代码块&#34;&gt;代码块
+&lt;/h3&gt;&lt;p&gt;在 Markdown 中，代码块的使用&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;敲打代码 &lt;code&gt;```Hello, World!```&lt;/code&gt; 输出下方代码块。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Hello, World!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;markdown-进阶语法&#34;&gt;Markdown 进阶语法
+&lt;/h2&gt;&lt;h3 id=&#34;链接&#34;&gt;链接
+&lt;/h3&gt;&lt;p&gt;在 Markdown 中，可以使用 &lt;code&gt;[链接名称](链接地址)&lt;/code&gt; 的格式来表示一个链接。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;敲打代码&lt;code&gt;[Bing](https://cn.bing.com/)&lt;/code&gt; 输出下方链接&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://cn.bing.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Bing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;图片&#34;&gt;图片
+&lt;/h3&gt;&lt;p&gt;在 Markdown 中，可以使用 &lt;code&gt;![图片名称](图片地址)&lt;/code&gt; 的格式来表示一张图片。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;敲打代码&lt;code&gt;![Markdown Logo](https://download.logo.wine/logo/Markdown/Markdown-Logo.wine.png)&lt;/code&gt; 输出下方图片&lt;br&gt;
+&lt;img src=&#34;https://download.logo.wine/logo/Markdown/Markdown-Logo.wine.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Markdown Logo&#34;
+	
+	
+&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;总结&#34;&gt;总结
+&lt;/h2&gt;&lt;p&gt;Markdown 是一种非常方便的标记语言，用于创建格式化文本的文档。通过学习这篇教程，你应该可以掌握 Markdown 的基本语法和进阶功能。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
